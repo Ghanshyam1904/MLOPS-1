@@ -19,6 +19,7 @@ lib64/
 parts/
 sdist/
 var/
+.zencoder
 wheels/
 share/python-wheels/
 *.egg-info/
